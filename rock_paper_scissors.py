@@ -24,7 +24,7 @@ while True:
         userskor += 1
     else:
         print("computer wins")
-        computerskor += 111
+        computerskor += 1111
     
 
 
